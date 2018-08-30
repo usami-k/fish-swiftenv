@@ -7,7 +7,7 @@
 With [fisherman](https://fisherman.github.io)
 
 ```
-fisher usami-k/swiftenv
+fisher usami-k/fish-swiftenv
 ```
 
 ## License
