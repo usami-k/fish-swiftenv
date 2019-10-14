@@ -4,10 +4,10 @@
 
 ## Install
 
-With [fisherman](https://fisherman.github.io)
+With [fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher usami-k/fish-swiftenv
+fisher add usami-k/fish-swiftenv
 ```
 
 ## License
